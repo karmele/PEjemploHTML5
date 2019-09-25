@@ -41,6 +41,7 @@
                         </div>
                     </section>
                     <footer>
+						<!-- Esto esun cambio dentro del archivo saludo.php 20:38  -->
                         <div id="botones">
                             <label>&nbsp;</label>
                             <input type="submit" name="enviar" value="Enviar" /><br />
