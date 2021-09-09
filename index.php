@@ -8,9 +8,9 @@
  * Descripción extensa (opcional)
  *
  * @author Fulanito de Tal <fulanito@example.com>
- * @copyright 2018 Fulanito de Tal
+ * @copyright 2021 Fulanito de Tal
  * @license http://www.fsf.org/licensing/licenses/gpl.txt GPL 2 or later
- * @version 2019-09-09
+ * @version 2021-09-09
  * @link https://docentes.educacion.navarra.es/carocena/PrimerEjemploHTML5/
  */
 
